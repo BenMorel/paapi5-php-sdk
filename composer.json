@@ -1,6 +1,5 @@
 {
-    "name": "amzn/paapi5-php-sdk",
-    "version": "1.1.0",
+    "name": "benmorel/paapi5-php-sdk",
     "description": "ProductAdvertisingAPI 5.0 PHP SDK",
     "keywords": [
         "amazon",
